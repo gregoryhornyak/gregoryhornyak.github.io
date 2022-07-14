@@ -12,6 +12,7 @@ Welcome to my personal webpage!
   - R - beginner,
   - Assembly - beginner.
 - Competent in using Microsoft products like Excel, Powerpoint, Teams, Word, Outlook, and Onedrive.
+- Self-taught Blender user **insert images here**
 
 ## Education:
 
@@ -52,14 +53,18 @@ Languages:
 - Machine Learning and AI
 - Random generation
 - DeepFake (DeepFake voice, real-time video, picture)
+- Modelling
+- Videogames
+- Automation
 
 ## Others:
 
-- Driving License - from 24th May 2022
+- Driving License - from 19th July 2022
 - School play acting - in Secondary School
 - Kayaking - in Elementary School
 - Going to gym - regularly
 - Videogames - indie games
+- Dog training in free time
 
 **Email address:** hornyakj@coventry.ac.uk
 
